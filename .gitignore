@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+downloads/
+runtime/
+app/
+tools/
+logs/
+backups/
+*.deb
+*.AppImage
+*.so
+*.so.*
+*.sock
+repair-state.json
+launch-state.json
